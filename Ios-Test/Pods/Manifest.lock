@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Socket.IO-Client-Swift (~> 15.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: fc0db2891352c72f55cef32e3f9a1f8304ec1479
+
+COCOAPODS: 1.11.2
